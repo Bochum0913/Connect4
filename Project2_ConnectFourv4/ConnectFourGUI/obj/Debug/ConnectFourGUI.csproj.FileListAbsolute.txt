@@ -1,0 +1,87 @@
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe.config
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.AssemblyReference.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\MainWindow.g.cs
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\App.g.cs
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.lref
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\MainWindow.baml
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.g.resources
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.Properties.Resources.resources
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.GenerateResource.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe.config
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnectFourGUI.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.AssemblyReference.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\MainWindow.g.cs
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\App.g.cs
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.lref
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\MainWindow.baml
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.g.resources
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.Properties.Resources.resources
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.GenerateResource.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnecFourLibrary.dll
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\bin\Debug\ConnecFourLibrary.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CopyComplete
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe.config
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnecFourLibrary.dll
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnecFourLibrary.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.AssemblyReference.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\MainWindow.g.cs
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\App.g.cs
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.lref
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\MainWindow.baml
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.g.resources
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.Properties.Resources.resources
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.GenerateResource.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CopyComplete
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe.config
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnectFourGUI.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnecFourLibrary.dll
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\bin\Debug\ConnecFourLibrary.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.AssemblyReference.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\MainWindow.g.cs
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\App.g.cs
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.lref
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\MainWindow.baml
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.g.resources
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.Properties.Resources.resources
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.GenerateResource.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CopyComplete
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourGUI\obj\Debug\ConnectFourGUI.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe.config
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\bin\Debug\ConnectFourGUI.exe
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\bin\Debug\ConnectFourGUI.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\bin\Debug\ConnecFourLibrary.dll
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\bin\Debug\ConnecFourLibrary.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.AssemblyReference.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\MainWindow.g.cs
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\App.g.cs
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI_MarkupCompile.lref
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\MainWindow.baml
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.g.resources
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.Properties.Resources.resources
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.GenerateResource.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CoreCompileInputs.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.csproj.CopyComplete
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.exe
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourGUI\obj\Debug\ConnectFourGUI.pdb

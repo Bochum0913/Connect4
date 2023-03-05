@@ -1,0 +1,40 @@
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe.config
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.dll
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.AssemblyReference.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CopyComplete
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour\Project2_ConnectFour\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe.config
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.dll
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.pdb
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.AssemblyReference.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CopyComplete
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.exe
+C:\Users\camer\Documents\Semester_5\INFO_5060_ProgrammingWith.NET\Project2_ConnectFour\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe.config
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.dll
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.pdb
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.AssemblyReference.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CoreCompileInputs.cache
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CopyComplete
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.exe
+D:\Fanshawe\Term 5\INFO-5060\Projects\Project 2\Project2_ConnectFour_v2\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe.config
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.exe
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\bin\Debug\ConnectFourServiceHost.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.dll
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\bin\Debug\ConnecFourLibrary.pdb
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.AssemblyReference.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CoreCompileInputs.cache
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.csproj.CopyComplete
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.exe
+C:\Workplace\course\INFO-5060 Component-based Programming with .NET\Project2_ConnectFourv4\ConnectFourServiceHost\obj\Debug\ConnectFourServiceHost.pdb
